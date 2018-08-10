@@ -1,0 +1,4 @@
+cron:
+- description: "description"
+  url: /<Function url wihout https://<Your_region>-<Your_Project>.cloudfunctions.net>
+  schedule: every 24 HOURS
