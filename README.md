@@ -11,3 +11,5 @@ and them deploy your cron job like the model
 gcloud app deploy
 
 gcloud app deploy cron.yaml
+
+# Note: at the moment is working only with a lot of time betwen function execution
